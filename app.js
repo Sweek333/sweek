@@ -29,8 +29,8 @@ const showWeather = (data) => {
     `
 }
 
-form.addEventListener(
-    "submit",
+form.addEventListener(ddd
+    "submit",ffff
     function(event) {
         getWeather(search.value)
         event.preventDefault();
